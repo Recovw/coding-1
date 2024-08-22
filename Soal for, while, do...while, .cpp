@@ -4,7 +4,7 @@
 
 /* Buatlah program, dengan ketentuan:
 1. Program akan meminta 2 buah input, yaitu input umur dengan ketentuan umur harus di atas sama dengan 0 (jika kurang dari 0 maka program akan meminta input ulang) dan input jenis kelamin �L�
-   (laki-laki) atau �P� (perempuan) (jika input selain karakter �L� atau �P� maka program akan meminta input ulang).
+   (laki-laki) atau �P� (perempuan) (jika input selain karakter (L) atau (P) maka program akan meminta input ulang).
    
 2. Jika sudah input sebuah angka, program akan cek apakah input jenis kelamin �L� atau �P�.
 
