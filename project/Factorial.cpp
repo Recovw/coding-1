@@ -10,7 +10,7 @@ int main()
 	printf("Ketika angka:");
     scanf("%d", &angka);
     
-	printf("Hasil dari faktorial : %lld", faktorial(angka));
+	printf("Hasil dari faktorial : %d", faktorial(angka));
 	
     
     return 0;
