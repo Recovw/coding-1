@@ -18,7 +18,7 @@ int main()
 
 int faktorial(int angka)
 {
-	int long long produk = 1;
+	int produk = 1;
 	
 	for (int i = 1; i <= angka; i++)
 	{
